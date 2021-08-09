@@ -3,9 +3,4 @@ more cool stuff added to this file
 This line is added at the remote repository
 commenting for collaboration
 adding another line for practice in collaborating
-<<<<<<< HEAD
-making a few changes for more practice with remote repo
-=======
-editing remote at the same time I'm editing local
->>>>>>> 281048c54fc3df2558f220a0a13c1b0c3af36570
 *******added something different in the local file*********
