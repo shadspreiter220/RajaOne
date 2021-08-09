@@ -8,3 +8,4 @@ making a few changes for more practice with remote repo
 =======
 editing remote at the same time I'm editing local
 >>>>>>> 281048c54fc3df2558f220a0a13c1b0c3af36570
+changing something else for an example
